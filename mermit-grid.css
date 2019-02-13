@@ -1,5 +1,5 @@
 [class^="mermit-grid"] {
-  overflow: hidden;
+  overflow: none;
   display: flex;
   flex-direction: row;
   height: 100%;
@@ -19,131 +19,161 @@
 [class^="mermit-grid"] [class^="mg-col"] {
   display: flex;
   flex-direction: column;
-  flex-shrink: 0;
   height: 100%;
   width: 100%;
+  flex-shrink: 1;
 
   box-shadow:inset 0px 0px 0px 3px black;
 }
 
 [class^="mermit-grid"] [class^="mg-col-1"] {
   height: calc(100% / 30 * 1);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-2"] {
   height: calc(100% / 30 * 2);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-3"] {
   height: calc(100% / 30 * 3);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-4"] {
   height: calc(100% / 30 * 4);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-5"] {
   height: calc(100% / 30 * 5);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-6"] {
   height: calc(100% / 30 * 6);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-7"] {
   height: calc(100% / 30 * 7);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-8"] {
   height: calc(100% / 30 * 8);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-9"] {
   height: calc(100% / 30 * 9);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-10"] {
   height: calc(100% / 30 * 10);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-11"] {
   height: calc(100% / 30 * 11);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-12"] {
   height: calc(100% / 30 * 12);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-13"] {
   height: calc(100% / 30 * 13);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-14"] {
   height: calc(100% / 30 * 14);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-15"] {
   height: calc(100% / 30 * 15);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-16"] {
   height: calc(100% / 30 * 16);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-17"] {
   height: calc(100% / 30 * 17);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-18"] {
   height: calc(100% / 30 * 18);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-19"] {
   height: calc(100% / 30 * 19);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-20"] {
   height: calc(100% / 30 * 20);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-21"] {
   height: calc(100% / 30 * 21);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-22"] {
   height: calc(100% / 30 * 22);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-23"] {
   height: calc(100% / 30 * 23);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-24"] {
   height: calc(100% / 30 * 24);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-25"] {
   height: calc(100% / 30 * 25);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-26"] {
   height: calc(100% / 30 * 26);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-27"] {
   height: calc(100% / 30 * 27);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-28"] {
   height: calc(100% / 30 * 28);
+
 }
 
 [class^="mermit-grid"] [class^="mg-col-29"] {
   height: calc(100% / 30 * 29);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-col-30"] {
   height: calc(100% / 30 * 30);
+  flex-shrink: 0;
 }
 
 [class^="mermit-grid"] [class^="mg-row"] {
