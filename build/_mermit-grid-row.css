@@ -1,0 +1,157 @@
+[class^="mermit-grid"] [class^="mg-row"] {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  flex-shrink: 1;
+}
+
+[class^="mermit-grid"] [class^="mg-row-1"] {
+  height: 3.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-2"] {
+  height: 6.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-3"] {
+  height: 10%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-4"] {
+  height: 13.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-5"] {
+  height: 16.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-6"] {
+  height: 20%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-7"] {
+  height: 23.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-8"] {
+  height: 26.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-9"] {
+  height: 30%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-10"] {
+  height: 33.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-11"] {
+  height: 36.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-12"] {
+  height: 40%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-13"] {
+  height: 43.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-14"] {
+  height: 46.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-15"] {
+  height: 50%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-16"] {
+  height: 53.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-17"] {
+  height: 56.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-18"] {
+  height: 60%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-19"] {
+  height: 63.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-20"] {
+  height: 66.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-21"] {
+  height: 70%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-22"] {
+  height: 73.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-23"] {
+  height: 76.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-24"] {
+  height: 80%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-25"] {
+  height: 83.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-26"] {
+  height: 86.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-27"] {
+  height: 90%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-28"] {
+  height: 93.33333%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-29"] {
+  height: 96.66667%;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row-30"] {
+  height: 100%;
+  flex-shrink: 0;
+}

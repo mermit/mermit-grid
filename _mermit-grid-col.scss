@@ -1,0 +1,132 @@
+@mixin mg-col-x($colsize) {
+  width: 100% / 30 * $colsize;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-col"] {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+  flex-shrink: 1;
+}
+
+[class^="mermit-grid"] [class^="mg-col-1"] {
+  @include mg-col-x(1);
+}
+
+[class^="mermit-grid"] [class^="mg-col-2"] {
+  @include mg-col-x(2);
+}
+
+[class^="mermit-grid"] [class^="mg-col-3"] {
+  @include mg-col-x(3);
+}
+
+[class^="mermit-grid"] [class^="mg-col-4"] {
+  @include mg-col-x(4);
+}
+
+[class^="mermit-grid"] [class^="mg-col-5"] {
+  @include mg-col-x(5);
+}
+
+[class^="mermit-grid"] [class^="mg-col-6"] {
+  @include mg-col-x(6);
+}
+
+[class^="mermit-grid"] [class^="mg-col-7"] {
+  @include mg-col-x(7);
+}
+
+[class^="mermit-grid"] [class^="mg-col-8"] {
+  @include mg-col-x(8);
+}
+
+[class^="mermit-grid"] [class^="mg-col-9"] {
+  @include mg-col-x(9);
+}
+
+[class^="mermit-grid"] [class^="mg-col-10"] {
+  @include mg-col-x(10);
+}
+
+[class^="mermit-grid"] [class^="mg-col-11"] {
+  @include mg-col-x(11);
+}
+
+[class^="mermit-grid"] [class^="mg-col-12"] {
+  @include mg-col-x(12);
+}
+
+[class^="mermit-grid"] [class^="mg-col-13"] {
+  @include mg-col-x(13);
+}
+
+[class^="mermit-grid"] [class^="mg-col-14"] {
+  @include mg-col-x(14);
+}
+
+[class^="mermit-grid"] [class^="mg-col-15"] {
+  @include mg-col-x(15);
+}
+
+[class^="mermit-grid"] [class^="mg-col-16"] {
+  @include mg-col-x(16);
+}
+
+[class^="mermit-grid"] [class^="mg-col-17"] {
+  @include mg-col-x(17);
+}
+
+[class^="mermit-grid"] [class^="mg-col-18"] {
+  @include mg-col-x(18);
+}
+
+[class^="mermit-grid"] [class^="mg-col-19"] {
+  @include mg-col-x(19);
+}
+
+[class^="mermit-grid"] [class^="mg-col-20"] {
+  @include mg-col-x(20);
+}
+
+[class^="mermit-grid"] [class^="mg-col-21"] {
+  @include mg-col-x(21);
+}
+
+[class^="mermit-grid"] [class^="mg-col-22"] {
+  @include mg-col-x(22);
+}
+
+[class^="mermit-grid"] [class^="mg-col-23"] {
+  @include mg-col-x(23);
+}
+
+[class^="mermit-grid"] [class^="mg-col-24"] {
+  @include mg-col-x(24);
+}
+
+[class^="mermit-grid"] [class^="mg-col-25"] {
+  @include mg-col-x(25);
+}
+
+[class^="mermit-grid"] [class^="mg-col-26"] {
+  @include mg-col-x(26);
+}
+
+[class^="mermit-grid"] [class^="mg-col-27"] {
+  @include mg-col-x(27);
+}
+
+[class^="mermit-grid"] [class^="mg-col-28"] {
+  @include mg-col-x(28);
+}
+
+[class^="mermit-grid"] [class^="mg-col-29"] {
+  @include mg-col-x(29);
+}
+
+[class^="mermit-grid"] [class^="mg-col-30"] {
+  @include mg-col-x(30);
+}

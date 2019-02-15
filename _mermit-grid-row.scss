@@ -1,0 +1,132 @@
+@mixin mg-row-x($rowsize) {
+  height: 100% / 30 * $rowsize;
+  flex-shrink: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-row"] {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  flex-shrink: 1;
+}
+
+[class^="mermit-grid"] [class^="mg-row-1"] {
+  @include mg-row-x(1);
+}
+
+[class^="mermit-grid"] [class^="mg-row-2"] {
+  @include mg-row-x(2);
+}
+
+[class^="mermit-grid"] [class^="mg-row-3"] {
+  @include mg-row-x(3);
+}
+
+[class^="mermit-grid"] [class^="mg-row-4"] {
+  @include mg-row-x(4);
+}
+
+[class^="mermit-grid"] [class^="mg-row-5"] {
+  @include mg-row-x(5);
+}
+
+[class^="mermit-grid"] [class^="mg-row-6"] {
+  @include mg-row-x(6);
+}
+
+[class^="mermit-grid"] [class^="mg-row-7"] {
+  @include mg-row-x(7);
+}
+
+[class^="mermit-grid"] [class^="mg-row-8"] {
+  @include mg-row-x(8);
+}
+
+[class^="mermit-grid"] [class^="mg-row-9"] {
+  @include mg-row-x(9);
+}
+
+[class^="mermit-grid"] [class^="mg-row-10"] {
+  @include mg-row-x(10);
+}
+
+[class^="mermit-grid"] [class^="mg-row-11"] {
+  @include mg-row-x(11);
+}
+
+[class^="mermit-grid"] [class^="mg-row-12"] {
+  @include mg-row-x(12);
+}
+
+[class^="mermit-grid"] [class^="mg-row-13"] {
+  @include mg-row-x(13);
+}
+
+[class^="mermit-grid"] [class^="mg-row-14"] {
+  @include mg-row-x(14);
+}
+
+[class^="mermit-grid"] [class^="mg-row-15"] {
+  @include mg-row-x(15);
+}
+
+[class^="mermit-grid"] [class^="mg-row-16"] {
+  @include mg-row-x(16);
+}
+
+[class^="mermit-grid"] [class^="mg-row-17"] {
+  @include mg-row-x(17);
+}
+
+[class^="mermit-grid"] [class^="mg-row-18"] {
+  @include mg-row-x(18);
+}
+
+[class^="mermit-grid"] [class^="mg-row-19"] {
+  @include mg-row-x(19);
+}
+
+[class^="mermit-grid"] [class^="mg-row-20"] {
+  @include mg-row-x(20);
+}
+
+[class^="mermit-grid"] [class^="mg-row-21"] {
+  @include mg-row-x(21);
+}
+
+[class^="mermit-grid"] [class^="mg-row-22"] {
+  @include mg-row-x(22);
+}
+
+[class^="mermit-grid"] [class^="mg-row-23"] {
+  @include mg-row-x(23);
+}
+
+[class^="mermit-grid"] [class^="mg-row-24"] {
+  @include mg-row-x(24);
+}
+
+[class^="mermit-grid"] [class^="mg-row-25"] {
+  @include mg-row-x(25);
+}
+
+[class^="mermit-grid"] [class^="mg-row-26"] {
+  @include mg-row-x(26);
+}
+
+[class^="mermit-grid"] [class^="mg-row-27"] {
+  @include mg-row-x(27);
+}
+
+[class^="mermit-grid"] [class^="mg-row-28"] {
+  @include mg-row-x(28);
+}
+
+[class^="mermit-grid"] [class^="mg-row-29"] {
+  @include mg-row-x(29);
+}
+
+[class^="mermit-grid"] [class^="mg-row-30"] {
+  @include mg-row-x(30);
+}

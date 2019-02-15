@@ -1,0 +1,26 @@
+html, body {
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+[class^="mermit-grid"] [class^="mg-"] {
+  box-shadow:inset 0px 0px 0px 1px rgba(255,255,255,0.6), inset 0px 0px 0px 3px rgba(80,80,80,0.7);
+}
+
+[class^="mermit-grid"] {
+  overflow: visible;
+  height: 50%;
+  width: 50%;
+}
+
+.debug-1 {
+  margin-right: 50%;
+  background-color: rgba(0, 180, 0, 0.2);
+}
+
+.debug-2 {
+  margin-left: 50%;
+  background-color: rgba(0, 100, 210, 0.2);
+}
