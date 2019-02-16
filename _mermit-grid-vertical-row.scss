@@ -1,0 +1,254 @@
+@mixin mg-sec-vo-x($rowsize) {
+  height: 100% / 60 * $rowsize;
+  flex-shrink: 0;
+}
+
+@media screen and (orientation: portrait) {
+
+  [class^="mg-row"], [class^="mg-row"] > [class^="mg-sec"], [class^="mg-row"] > [class^="mg-sec"] > [class^="mg-sec"] {
+    & > [class^="mg-sec"][class*="vo-0"] {
+      display: none;
+    }
+
+    & > [class^="mg-sec"][class*="vo-1"] {
+      @include mg-sec-vo-x(1);
+    }
+
+    & > [class^="mg-sec"][class*="vo-2"] {
+      @include mg-sec-vo-x(2);
+    }
+
+    & > [class^="mg-sec"][class*="vo-3"] {
+      @include mg-sec-vo-x(3);
+    }
+
+    & > [class^="mg-sec"][class*="vo-4"] {
+      @include mg-sec-vo-x(4);
+    }
+
+    & > [class^="mg-sec"][class*="vo-5"] {
+      @include mg-sec-vo-x(5);
+    }
+
+    & > [class^="mg-sec"][class*="vo-6"] {
+      @include mg-sec-vo-x(6);
+    }
+
+    & > [class^="mg-sec"][class*="vo-7"] {
+      @include mg-sec-vo-x(7);
+    }
+
+    & > [class^="mg-sec"][class*="vo-8"] {
+      @include mg-sec-vo-x(8);
+    }
+
+    & > [class^="mg-sec"][class*="vo-9"] {
+      @include mg-sec-vo-x(9);
+    }
+
+    & > [class^="mg-sec"][class*="vo-10"] {
+      @include mg-sec-vo-x(10);
+    }
+
+    & > [class^="mg-sec"][class*="vo-11"] {
+      @include mg-sec-vo-x(11);
+    }
+
+    & > [class^="mg-sec"][class*="vo-12"] {
+      @include mg-sec-vo-x(12);
+    }
+
+    & > [class^="mg-sec"][class*="vo-13"] {
+      @include mg-sec-vo-x(13);
+    }
+
+    & > [class^="mg-sec"][class*="vo-14"] {
+      @include mg-sec-vo-x(14);
+    }
+
+    & > [class^="mg-sec"][class*="vo-15"] {
+      @include mg-sec-vo-x(15);
+    }
+
+    & > [class^="mg-sec"][class*="vo-16"] {
+      @include mg-sec-vo-x(16);
+    }
+
+    & > [class^="mg-sec"][class*="vo-17"] {
+      @include mg-sec-vo-x(17);
+    }
+
+    & > [class^="mg-sec"][class*="vo-18"] {
+      @include mg-sec-vo-x(18);
+    }
+
+    & > [class^="mg-sec"][class*="vo-19"] {
+      @include mg-sec-vo-x(19);
+    }
+
+    & > [class^="mg-sec"][class*="vo-20"] {
+      @include mg-sec-vo-x(20);
+    }
+
+    & > [class^="mg-sec"][class*="vo-21"] {
+      @include mg-sec-vo-x(21);
+    }
+
+    & > [class^="mg-sec"][class*="vo-22"] {
+      @include mg-sec-vo-x(22);
+    }
+
+    & > [class^="mg-sec"][class*="vo-23"] {
+      @include mg-sec-vo-x(23);
+    }
+
+    & > [class^="mg-sec"][class*="vo-24"] {
+      @include mg-sec-vo-x(24);
+    }
+
+    & > [class^="mg-sec"][class*="vo-25"] {
+      @include mg-sec-vo-x(25);
+    }
+
+    & > [class^="mg-sec"][class*="vo-26"] {
+      @include mg-sec-vo-x(26);
+    }
+
+    & > [class^="mg-sec"][class*="vo-27"] {
+      @include mg-sec-vo-x(27);
+    }
+
+    & > [class^="mg-sec"][class*="vo-28"] {
+      @include mg-sec-vo-x(28);
+    }
+
+    & > [class^="mg-sec"][class*="vo-29"] {
+      @include mg-sec-vo-x(29);
+    }
+
+    & > [class^="mg-sec"][class*="vo-30"] {
+      @include mg-sec-vo-x(30);
+    }
+
+    & > [class^="mg-sec"][class*="vo-31"] {
+      @include mg-sec-vo-x(31);
+    }
+
+    & > [class^="mg-sec"][class*="vo-32"] {
+      @include mg-sec-vo-x(32);
+    }
+
+    & > [class^="mg-sec"][class*="vo-33"] {
+      @include mg-sec-vo-x(33);
+    }
+
+    & > [class^="mg-sec"][class*="vo-34"] {
+      @include mg-sec-vo-x(34);
+    }
+
+    & > [class^="mg-sec"][class*="vo-35"] {
+      @include mg-sec-vo-x(35);
+    }
+
+    & > [class^="mg-sec"][class*="vo-36"] {
+      @include mg-sec-vo-x(36);
+    }
+
+    & > [class^="mg-sec"][class*="vo-37"] {
+      @include mg-sec-vo-x(37);
+    }
+
+    & > [class^="mg-sec"][class*="vo-38"] {
+      @include mg-sec-vo-x(38);
+    }
+
+    & > [class^="mg-sec"][class*="vo-39"] {
+      @include mg-sec-vo-x(39);
+    }
+
+    & > [class^="mg-sec"][class*="vo-40"] {
+      @include mg-sec-vo-x(40);
+    }
+
+    & > [class^="mg-sec"][class*="vo-41"] {
+    @include mg-sec-vo-x(41);
+    }
+
+    & > [class^="mg-sec"][class*="vo-42"] {
+      @include mg-sec-vo-x(42);
+    }
+
+    & > [class^="mg-sec"][class*="vo-43"] {
+      @include mg-sec-vo-x(43);
+    }
+
+    & > [class^="mg-sec"][class*="vo-44"] {
+      @include mg-sec-vo-x(44);
+    }
+
+    & > [class^="mg-sec"][class*="vo-45"] {
+      @include mg-sec-vo-x(45);
+    }
+
+    & > [class^="mg-sec"][class*="vo-46"] {
+      @include mg-sec-vo-x(46);
+    }
+
+    & > [class^="mg-sec"][class*="vo-47"] {
+      @include mg-sec-vo-x(47);
+    }
+
+    & > [class^="mg-sec"][class*="vo-48"] {
+      @include mg-sec-vo-x(48);
+    }
+
+    & > [class^="mg-sec"][class*="vo-49"] {
+      @include mg-sec-vo-x(49);
+    }
+
+    & > [class^="mg-sec"][class*="vo-50"] {
+      @include mg-sec-vo-x(50);
+    }
+
+    & > [class^="mg-sec"][class*="vo-51"] {
+      @include mg-sec-vo-x(51);
+    }
+
+    & > [class^="mg-sec"][class*="vo-52"] {
+      @include mg-sec-vo-x(52);
+    }
+
+    & > [class^="mg-sec"][class*="vo-53"] {
+      @include mg-sec-vo-x(53);
+    }
+
+    & > [class^="mg-sec"][class*="vo-54"] {
+      @include mg-sec-vo-x(54);
+    }
+
+    & > [class^="mg-sec"][class*="vo-55"] {
+      @include mg-sec-vo-x(55);
+    }
+
+    & > [class^="mg-sec"][class*="vo-56"] {
+      @include mg-sec-vo-x(56);
+    }
+
+    & > [class^="mg-sec"][class*="vo-57"] {
+      @include mg-sec-vo-x(57);
+    }
+
+    & > [class^="mg-sec"][class*="vo-58"] {
+      @include mg-sec-vo-x(58);
+    }
+
+    & > [class^="mg-sec"][class*="vo-59"] {
+      @include mg-sec-vo-x(59);
+    }
+
+    & > [class^="mg-sec"][class*="vo-60"] {
+      @include mg-sec-vo-x(60);
+    }
+  }
+
+}

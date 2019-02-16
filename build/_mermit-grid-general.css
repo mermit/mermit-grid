@@ -27,6 +27,7 @@ html, body {
 
 [class^="mg-sec"] {
   display: flex;
+  overflow: hidden;
   flex-shrink: 1;
   height: 100%;
   width: 100%;

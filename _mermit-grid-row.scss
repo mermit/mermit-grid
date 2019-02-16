@@ -8,6 +8,10 @@
     flex-direction: column;
   }
 
+  & > [class^="mg-sec-0"] {
+    display: none;
+  }
+
   & > [class^="mg-sec-1"] {
     @include mg-sec-x(1);
   }
