@@ -2,6 +2,10 @@
   flex-direction: row;
 }
 
+[class^="mg-col"] > [class^="mg-sec-0"], [class^="mg-col"] > [class^="mg-sec"] > [class^="mg-sec-0"], [class^="mg-col"] > [class^="mg-sec"] > [class^="mg-sec"] > [class^="mg-sec-0"] {
+  display: none;
+}
+
 [class^="mg-col"] > [class^="mg-sec-1"], [class^="mg-col"] > [class^="mg-sec"] > [class^="mg-sec-1"], [class^="mg-col"] > [class^="mg-sec"] > [class^="mg-sec"] > [class^="mg-sec-1"] {
   width: 1.66667%;
   flex-shrink: 0;

@@ -1,0 +1,81 @@
+[class^="mg"][class*="g-ha-center"], [class^="mg"][class*="g-ha-center"] [class^="mg"] {
+  justify-content: center;
+}
+
+[class^="mg"][class*="g-va-center"], [class^="mg"][class*="g-va-center"] [class^="mg"] {
+  align-items: center;
+}
+
+[class^="mg"][class*="g-aa-center"], [class^="mg"][class*="g-aa-center"] [class^="mg"] {
+  justify-content: center;
+  align-items: center;
+}
+
+[class^="mg"][class*="g-ha-left"], [class^="mg"][class*="g-ha-left"] [class^="mg"] {
+  justify-content: flex-start;
+}
+
+[class^="mg"][class*="g-ha-right"], [class^="mg"][class*="g-ha-right"] [class^="mg"] {
+  justify-content: flex-end;
+}
+
+[class^="mg"][class*="g-va-top"], [class^="mg"][class*="g-va-top"] [class^="mg"] {
+  align-items: flex-start;
+}
+
+[class^="mg"][class*="g-va-bottom"], [class^="mg"][class*="g-va-bottom"] [class^="mg"] {
+  align-items: flex-end;
+}
+
+[class^="mg"][class*="g-ha-evenly"], [class^="mg"][class*="g-ha-evenly"] [class^="mg"] {
+  justify-content: space-evenly;
+}
+
+[class^="mg"][class*="g-ha-around"], [class^="mg"][class*="g-ha-around"] [class^="mg"] {
+  justify-content: space-around;
+}
+
+[class^="mg"][class*="g-ha-between"], [class^="mg"][class*="g-ha-between"] [class^="mg"] {
+  justify-content: space-between;
+}
+
+[class^="mg"][class*="ha-center"] {
+  justify-content: center;
+}
+
+[class^="mg"][class*="va-center"] {
+  align-items: center;
+}
+
+[class^="mg"][class*="aa-center"] {
+  justify-content: center;
+  align-items: center;
+}
+
+[class^="mg"][class*="ha-left"] {
+  justify-content: flex-start;
+}
+
+[class^="mg"][class*="ha-right"] {
+  justify-content: flex-end;
+}
+
+[class^="mg"][class*="va-top"] {
+  align-items: flex-start;
+}
+
+[class^="mg"][class*="va-bottom"] {
+  align-items: flex-end;
+}
+
+[class^="mg"][class*="ha-evenly"] {
+  justify-content: space-evenly;
+}
+
+[class^="mg"][class*="ha-around"] {
+  justify-content: space-around;
+}
+
+[class^="mg"][class*="ha-between"] {
+  justify-content: space-between;
+}

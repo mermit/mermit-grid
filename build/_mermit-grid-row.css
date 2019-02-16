@@ -2,6 +2,10 @@
   flex-direction: column;
 }
 
+[class^="mg-row"] > [class^="mg-sec-0"], [class^="mg-row"] > [class^="mg-sec"] > [class^="mg-sec-0"], [class^="mg-row"] > [class^="mg-sec"] > [class^="mg-sec"] > [class^="mg-sec-0"] {
+  display: none;
+}
+
 [class^="mg-row"] > [class^="mg-sec-1"], [class^="mg-row"] > [class^="mg-sec"] > [class^="mg-sec-1"], [class^="mg-row"] > [class^="mg-sec"] > [class^="mg-sec"] > [class^="mg-sec-1"] {
   height: 1.66667%;
   flex-shrink: 0;

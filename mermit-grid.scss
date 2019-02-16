@@ -1,3 +1,8 @@
 @import 'mermit-grid-general';
 @import 'mermit-grid-col';
+@import '_mermit-grid-horizontal-col';
+@import '_mermit-grid-vertical-col';
 @import 'mermit-grid-row';
+@import '_mermit-grid-horizontal-row';
+@import '_mermit-grid-vertical-row';
+@import '_mermit-grid-general-alignments';
